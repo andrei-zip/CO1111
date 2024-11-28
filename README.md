@@ -1,2 +1,2 @@
 # CO1111
-The Computing Challenge 
+Module Repository for The Computing Challenge
